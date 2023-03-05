@@ -22,7 +22,7 @@ The tool only launches if the game is closed, this is to ensure the save files a
 
 Simply select the desired save from the dropdown list on the top, and all the relevant data will be loaded.
 
-Once you are done editing, be sure to click the `Write changes to file` button, to save what was changed.
+Once you are done editing, be sure to click the __Write changes to file__ button, to save what was changed.
 
 ### Resurrection
 Clicking this button will set the given companion's health to 100 and removes their associated player kill counters in the `SaveData.json` file. It also resets the `IsRobbyDead` or `IsVirginiaDead` flag in the `GameStateSaveData.json` file to `false`.
