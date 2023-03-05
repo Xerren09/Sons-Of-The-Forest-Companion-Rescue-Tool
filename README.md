@@ -33,10 +33,10 @@ The value entered here will set the companion's health. There are no known caps 
 ### Teleporting
 __Manually setting a companion's position may result in them glitching out of the map, or stuck in an object. Be careful and back up your save before messing with this.__
 
-Changing the values here will make the given companion to teleport to the given location. This can be particularly useful when they are stuck at a weird position, or have completely disappeared.
+Changing the values here will make the given companion teleport to the given location. This can be particularly useful when they are stuck at a weird position, or have completely disappeared.
 
 #### Move to position
-This will move them to the given position entered the input boxes.
+This will move them to the given position entered into the input boxes.
 
 #### Move to player position
 
