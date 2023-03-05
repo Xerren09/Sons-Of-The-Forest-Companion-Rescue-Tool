@@ -1,5 +1,5 @@
 # Sons-Of-The-Forest-Companion-Rescue-Tool
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/Xerren09/Sons-Of-The-Forest-Companion-Rescue-Tool?style=flat-square)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/xerren09/Sons-Of-The-Forest-Companion-Rescue-Tool?style=flat-square)
 
 A small tool that helps with reviving and unstucking your beloved Kelvin (or Virginia) when they like a wall a bit too much.
 
