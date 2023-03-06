@@ -18,7 +18,12 @@ Click [here](https://github.com/Xerren09/Sons-Of-The-Forest-Companion-Rescue-Too
 
 ## Usage
 
-The tool only launches if the game is closed, this is to ensure the save files are not in use by the game, as this could corrupt them. Close the game, open the tool, make your changes and save them, then start the game back up again to load it.
+The tool only launches if the game is closed, this is to ensure the save files are not in use by the game, as this could corrupt them. 
+
+* Save, then close the game
+* Open the tool
+* Make your changes and save them by clicking the __Write changes to file__ button
+* Start the game back up again to load your save.
 
 Simply select the desired save from the dropdown list on the top, and all the relevant data will be loaded.
 
