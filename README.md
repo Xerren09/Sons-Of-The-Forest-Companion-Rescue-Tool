@@ -16,6 +16,8 @@ We've been there. You are strolling back home with some sweet treasures, only to
 ## Download
 Click [here](https://github.com/Xerren09/Sons-Of-The-Forest-Companion-Rescue-Tool/releases/latest) to get the latest release. This tool is compiled to be a single executable that also contains its required .NET assemblies, so after downloading there is no additional work needed to start using it!
 
+_Note: Apparently due to the self-contained publishing method, antivirus software may raise an additional security notice beside the generic "Unknown program downloaded from the internet" one. If this happens, let it submit / scan the .exe so you can safely proceed once it is done._
+
 ## Usage
 
 The tool only launches if the game is closed, this is to ensure the save files are not in use by the game, as this could corrupt them. 
